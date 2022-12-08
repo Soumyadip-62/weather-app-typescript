@@ -1,6 +1,5 @@
 import "./style.css";
-import typescriptLogo from "./typescript.svg";
-import { setupCounter } from "./counter";
+
 import { getWeather } from "./getdata";
 import { current } from "./interfaces/current";
 import { Location } from "./interfaces/location";
